@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 react, node<br>👯 tinkering<br>🤝 I’m looking for help with<br>🌱 I’m currently learning bootstrap<br>💬 check out the issues<br>
+🔭 react, node<br>👯 tinkering<br>🌱 I’m currently learning bootstrap<br>💬 check out the issues<br>
 
 
 ## 🌐 Socials:
