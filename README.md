@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 react, node<br>👯 tinkering<br>🌱 I’m currently learning bootstrap<br>💬 check out the issues<br>
+🔭 cpp, python <br>👯 tinkering<br>🌱 I’m currently learning streamlit,tensorflow<br>💬 check out the issues<br>
 
 
 ## 🌐 Socials:
